@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Build
+/Build
+/x64
+Breakout/x64
